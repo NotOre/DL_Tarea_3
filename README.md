@@ -8,6 +8,53 @@ Para ejecutar 'LLaMA', 'Phi' y 'Mistral' se utilizo un entorno de ejecucion con 
 - **Herramienta de ejecucion:** Ollama (Mas reciente)
 - **Modelos utilizados:** 'llama3:8b', 'mistral:7b' y 'phi3:mini'
 
+## Prompts a utilizar
+Para poder comparar fielmente estos tres modelos, se da la opcion de utilizar 1 de los siguientes 'prompts' cada vez que se ejecute el codigo (debido a la lentitud por usar un hardware "poco potente" se decidio mostrar lo que iba generando cada modelo en tiempo real):
+
+1. 'Reseñas de Notion'
+
+[INSTRUCCION]
+
+Genera exactamente 10 ejemplos de reseñas de usuarios sobre la aplicacion de productividad 'Notion' en idioma Español.
+
+[REQUISITOS]
+
+- Cubrir problemas de UI/UX, bugs y rendimiento de forma balanceada.
+- Formato: Devuelve UNICAMENTE un arreglo JSON valido, sin texto introductorio ni conclusorio ni bloques markdown.
+
+[EJEMPLO]
+
+[{"id": 1, "app": "Notion", "review": "Se cierra inesperadamente.", "feeling": "Negativo", "category": "Bugs"}]
+
+2. 'Comentarios en Redes Sociales - Nuevo tipo de Brisket'
+
+[INSTRUCCION]
+
+Genera exactamente 10 comentarios simulados de redes sociales (Twitter, Facebook o Instagram) sobre el descrubrimiento de una nueva variedad de brisket en idioma Español
+
+[REQUISITOS]
+
+- Los comentarios deben reflejar altas expectativas (Positivo), decepcion (Negativo) o indiferencia (Neutral).
+- Formato: Devuelve UNICAMENTE un arreglo JSON valido, sin textos extra.
+
+[EJEMPLO]
+
+[{"id": 1, "platform": "Twitter", "text": "Este nuevo brisket se ve jugoso y sabroso.", "feeling": "Positivo", "topic": "Textura"}]
+
+3. 'Preguntas Frecuentes - Plataforma Venta de Brisket'
+
+[INSTRUCCION]
+
+Genera exactamente 10 preguntas frecuentes (FAQ) simuladas para el soporte tecnico de una plataforma de venta de brisket(carne) en idioma Español.
+
+[REQUISITOS]
+
+- Deben cubrir problemas de acceso, pagos y que variedad de productos se posee.
+- Formato: Devuelve UNICAMENTE un arreglo JSON valido, sin textos de introduccion o cierre.
+
+[EJEMPLO]
+
+[{"id": 1, "area": "Soporte", "question": "¿Como recupero mi contraseña?", "category": "Acceso"}]
 
 ## Como usar
 
