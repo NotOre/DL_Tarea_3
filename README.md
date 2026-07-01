@@ -1,4 +1,13 @@
 # DL_Tarea_3
+## Documentacion del entorno
+Para ejecutar 'LLaMA', 'Phi' y 'Mistral' se utilizo un entorno de ejecucion con los siguientes componentes:
+- **OS:** Pop! OS
+- **CPU:** Intel Core i7-7500U 2.70 GHz
+- **GPU:** Nvidia GeForce MX150
+- **Memoria RAM:** 12 GB
+- **Herramienta de ejecucion:** Ollama (Mas reciente)
+- **Modelos utilizados:** 'llama3:8b', 'mistral:7b' y 'phi3:mini'
+
 
 ## Como usar
 
