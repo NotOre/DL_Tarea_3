@@ -1,0 +1,16 @@
+Aquí te dejo el arreglo JSON con las 10 preguntas frecuentes (FAQ) simuladas para el soporte técnico de una plataforma de venta de brisket:
+
+[
+    {"id": 1, "area": "Soporte", "question": "¿Cómo recupero mi contraseña?", "category": "Acceso"},
+    {"id": 2, "area": "Soporte", "question": "Me olvidé mi usuario y contraseña. ¿Qué puedo hacer?", "category": "Acceso"},
+    {"id": 3, "area": "Soporte", "question": "¿Por qué no puedo acceder a la plataforma después de pagar mi pedido?", "category": "Acceso"},
+    {"id": 4, "area": "Compras", "question": "¿Qué variedades de brisket tienen disponible?", "category": "Productos"},
+    {"id": 5, "area": "Compras", "question": "¿Cómo puedo saber cuál es el tamaño y la cantidad de carne que necesito para mi pedido?", "category": "Productos"},
+    {"id": 6, "area": "Pago", "question": "¿Son seguras las transacciones en la plataforma?", "category": "Pagos"},
+    {"id": 7, "area": "Pago", "question": "¿Cómo puedo cancelar o modificar mi pedido después de realizar el pago?", "category": "Pagos"},
+    {"id": 8, "area": "Soporte", "question": "¿Qué pasa si no estoy satisfecho con mi pedido? ¿Hay alguna política de devolución o reemplazo?", "category": "General"},
+    {"id": 9, "area": "Acceso", "question": "¿Cómo puedo agregar más usuarios a mi cuenta?", "category": "Acceso"},
+    {"id": 10, "area": "Soporte", "question": "¿Dónde puedo encontrar la información de envío y entrega de mis pedidos?", "category": "General"}
+]
+
+Espero que esto sea lo que estabas buscando!

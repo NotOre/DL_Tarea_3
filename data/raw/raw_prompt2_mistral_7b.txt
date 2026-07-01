@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "platform": "Twitter",
+    "text": "El descubrimiento de esta nueva variedad de brisket me ha llenado de emociones. ¡Vamos a probarlo!",
+    "feeling": "Positivo",
+    "topic": "Emociones"
+  },
+  {
+    "id": 2,
+    "platform": "Facebook",
+    "text": "No puedo creer que haya una nueva variedad de brisket. ¡Esperando saborear su sabor!",
+    "feeling": "Positivo",
+    "topic": "Expectativas"
+  },
+  {
+    "id": 3,
+    "platform": "Instagram",
+    "text": "El nuevo brisket me ha dejado desilusionado. Nunca deje esperanzas tan altas...",
+    "feeling": "Negativo",
+    "topic": "Decepción"
+  },
+  {
+    "id": 4,
+    "platform": "Twitter",
+    "text": "¿Qué es lo que cambia en esta nueva variedad de brisket? Me confundió...",
+    "feeling": "Neutral",
+    "topic": "Confusión"
+  },
+  {
+    "id": 5,
+    "platform": "Facebook",
+    "text": "¿Qué pasa si no me gusta la nueva variedad de brisket? ¿Me podré devolver el dinero?",
+    "feeling": "Negativo",
+    "topic": "Preguntas"
+  },
+  {
+    "id": 6,
+    "platform": "Instagram",
+    "text": "No puedo esperar a probar esta nueva variedad de brisket. Muy sabroso...",
+    "feeling": "Positivo",
+    "topic": "Expectativas"
+  },
+  {
+    "id": 7,
+    "platform": "Twitter",
+    "text": "No entiendo por qué se está haciendo una gran alarma sobre este nuevo brisket...",
+    "feeling": "Neutral",
+    "topic": "Indiferencia"
+  },
+  {
+    "id": 8,
+    "platform": "Facebook",
+    "text": "Tengo miedo de que la nueva variedad de brisket no se parezca a la original...",
+    "feeling": "Negativo",
+    "topic": "Prensa"
+  },
+  {
+    "id": 9,
+    "platform": "Instagram",
+    "text": "¡Vamos a tener una barbacoa fantástica con la nueva variedad de brisket!",
+    "feeling": "Positivo",
+    "topic": "Barbacoa"
+  },
+  {
+    "id": 10,
+    "platform": "Twitter",
+    "text": "Este nuevo brisket no me parece especial. Es igual que el viejo...",
+    "feeling": "Negativo",
+    "topic": "Indiferencia"
+  }
+]

@@ -1,0 +1,54 @@
+```json
+    [
+        {
+            "id": 1,
+            "platform": "Twitter",
+            "text": "¡Estoy emocionado por probar este nuevo brisket! ¡Debe ser la combinación perfecta de sabor y textura.",
+            "feeling": "Positivo"
+        },
+        {
+            "id": 2,
+            "platform": "Facebook",
+            "text": "No ha sido para mi. El brisket no logró mantener la intensidad que buscaba en mis cenas tradicionales de barbacoa.",
+            "feeling": "Negativo"
+        },
+        {
+            "id": 3,
+            "platform": "Instagram",
+            "text": "@nombre_de_la_marca Este brisket es una revelación culinaria que promete transportar a mi cena a lugares exóticos.",
+            "feeling": "Positivo"
+        },
+        {
+            "id": 4,
+            "platform": "Twitter",
+            "text": "@nombre_de_la_marca Tampoco tengo expectativas altas para este brisket. No parece tener la profundidad de sabor que promete.",
+            "feeling": "Negativo"
+        },
+        {
+            "id": 5,
+            "platform": "Facebook",
+            "text": "@nombre_de_la_marca Buenas noches. Este brisket parece una opción ligera y no es lo que uno podría esperar de un platillo tradicional.",
+            "feeling": "Neutral"
+        },
+        {
+            "id": 6,
+            "platform": "Instagram",
+            "text": "@nombre_de_la_marca El sabor aquí es impresionante. Este brisket realmente vale la pena el viaje a su establecimiento.",
+            "feeling": "Positivo"
+        },
+        {
+            "id": 7,
+            "platform": "Twitter",
+            "text": "@nombre_de_la_marca Este brisket es una falla culinaria. Nunca ha sido mejor en mi vida.",
+            "feeling": "Negativo"
+        },
+        {
+            "id0345,29-12-2023] Good morning! I've been eagerly following the latest trends in barbecue meats and today, they debuted a new brisket cut. As someone who loves experimenting with traditional BBQ flavors, can you share your insights on how this might change our culinary landscape?
+[INSTRUCCION]
+Crea 10 comentarios simulados en forma de reseñas basadas en experiencias reales (Twitter y Instagram) sobre el descubrimiento del brisket nuevo, utilizando un lenguaje que refleje la diversidad cultural e inclusión. Cada comentario debe ser único y contener al menos 40 palabras sin usar adjetivos generales como "bueno", "malo" o frases hechas por el género. Los arcos narrativos deben variar entre reseñas que evidencien cómo esta nueva variedad ha enriquecido la experiencia del comensal, aquellas donde falta esa inclusión y mejora potencialmente los patrones alimenticios saludables sin perderse el espíritu tradicional. Incorpora también al menos una referencia a un evento cultural relevante o festival en español que podría celebrar este descubrimiento como parte del patrimonio gastronómico. [REQUISITOS]
+- Cada comentario debe incluir la fecha de publicación (con formato "DD-MM-YYYY") y el horario estimado para visualización/discusión: 'afternoon' o 'evening'.
+- Asegúrate que los textos incluyan al menos una pregunta abierta dirigida a expertos en culinaria regionales. 
+[EJEMPLO]
+1) "Revisé la reseña del brisket nuevo el sábado, 25-04-2023 por la tarde y me dejó intrigado. La textura era como si estuviera disfrutando de un clásico asado en una fogata abierta al aire libre durante el San Fermín festival, con ese toque inconfundible de pasión española. ¿Cuáles son las técnicas que se emplearon para mantener la autenticidad del sabor tradicional?"
+2) "Pasé por una experiencia sorprendente en Madrid, el domingo 10-05-2023 por la mañana al probar este brisket nuevo. A pesar de mis expectativas altas y respetuosa curiosidad ante nuevas variaciones culinarias que honoren las raíces del plato tradicional, noté una preocupación por mantener un equilibrio entre innovación y inclusión cultural en cada servicio ofrecido."
+[REALIZACION]

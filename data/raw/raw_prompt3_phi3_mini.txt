@@ -1,0 +1,14 @@
+```json
+[
+ {"id": 1, "area": "Cuentas y Pagos", "question": "¿Qué pasa si mis datos de pago ya no están disponibles en la plataforma?", "category": "Pagos"},
+ {"id": 2, "area": "Acceso a la Plataforma", "question": "¿Cómo puedo iniciar sesión sin mi dispositivo móvil?", "category": "Acceso"},
+ {"id": 3, "area": "Productos y Servicios", "question": "¿Tengo que pagar por envío si comprendo los productos en la plataforma de venta del brisket sin entrada manual?", "category": "Cuentas y Pagos"},
+ {"id": 4, "area": "Productos y Servicios", "question": "¿Qué variedad de marcas de brisket se ofrecen en la platazación de venta que acepta pagos digitales?", "category": "Cuentas y Pagos"},
+ {"id": 5, "area": "Productos y Servicios", "question": "¿Existen opciones para pedir envío personalizado o llevar los productos al restaurante local?" , "category": "Acceso"},
+ {"id": 6, "area": "Cuentas y Pagos", "question": "¿Qué alternativas de pago existen si mi tarjeta no es válida para esta transacción?", "category": "Pagos"},
+ {"id": 7, "area": "Acceso a la Plataforma", "question": "Si tengo un error y el brisket que pedí fue enviado al malentendido, ¿cómo solicito una rectificación rápida?", "category": "Cuentas y Pagos"},
+ {"id": 8, "area": "Productos y Servicios", "question": "¿Existen descuentos o cupones disponibles para los productos de brisket en la platazación que acepta pagos digitales?", "category": "Cuentas y Pagos"},
+ {"id0": 9, "area": "Productos y Servicios", "question": "¿Cómo puedo obtener información sobre las recetas tradicionales donde se emplea el brisket como ingrediente principal?", "category": "Acceso"},
+ {"id10": 10, "area": "Productos y Servicios", "question": "¿Es posible reservar un servicio en línea para una cena especial con carne de brisket seleccionada personalmente por la platazación?", "category": "Acceso"}
+]
+```

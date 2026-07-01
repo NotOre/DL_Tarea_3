@@ -1,0 +1,27 @@
+```json
+
+[
+
+    {"id": 104, "app": "Notion", "review": "A veces el diseño es confuso y difícil de usar.", "feeling": "Negativo", "category": "UI/UX"},
+
+    {"id": 105, "app": "Notion", "review": "La interfaz es intuitiva para comenzar a trabajar rápidamente con temas grandes.", "feeling": "Positivo", "category": "UI/UX"},
+
+    {"id": 106, "app": "Notion", "review": "Mejora en la velocidad de carga respecto al último lanzamiento.", "feeling": "Negativo", "category": "Rendimiento"},
+
+    {"id": 107, "app": "Notion", "review": "La organización del espacio es impresionante para gestionar proyectos con varios colaboradores.", "feeling": "Positivo", "category": "UI/UX"},
+
+    {"id": 108, "app": "Notion", "review": "Hay errores de sincronización que pueden ser molestas en la edición frecuente del mismo documento.", "feeling": "Negativo", "category": "Bugs"},
+
+    {"id": 109, "app": "Notion", "review": "La personalización con temas y colores hace que trabajar sea agradable y menos estresante.", "feeling": "Positivo", "category": "UI/UX"},
+
+    {"id": 110, "app": "Notion", "review": "El servicio es fiable con un bajo retraso en el envío de datos a través del internet.", "feeling": "Negativo", "category": "Rendimiento"},
+
+    {"id": 111, "app": "Notion", "review": "La integración con otras herramientas es limitada y puede ser un obstáculo para la eficiencia del flujo de trabajo.", "feeling": "Negativo", "category": "Bugs"},
+
+    {"id": 112, "app": "Notion", "review": "Esta aplicación me ha facilitado mucho el proceso de colaboración en equipo y la gestión del tiempo.", "feeling": "Positivo", "category": "UI/UX"},
+
+    {"id015, "app": "Notion", "review": "La sincronización con versiones anteriores no siempre es efectiva, generando ambigüedad en el trabajo colectivo.", "feeling": "Negativo", "category": "Bugs"}
+
+]
+
+```

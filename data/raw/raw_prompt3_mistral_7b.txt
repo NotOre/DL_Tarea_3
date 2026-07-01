@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "area": "Soporte",
+    "question": "Cómo accedo a la plataforma para realizar una compra de brisket?",
+    "category": "Acceso"
+  },
+  {
+    "id": 2,
+    "area": "Soporte",
+    "question": "No puedo acceder al sitio web. ¿Qué debo hacer?",
+    "category": "Acceso"
+  },
+  {
+    "id": 3,
+    "area": "Soporte",
+    "question": "¿Cómo puedo realizar un pago en la plataforma?",
+    "category": "Pagos"
+  },
+  {
+    "id": 4,
+    "area": "Soporte",
+    "question": "Tengo problemas al momento de procesar el pago. ¿Qué puedo hacer?",
+    "category": "Pagos"
+  },
+  {
+    "id": 5,
+    "area": "Soporte",
+    "question": "¿Que variedad de brisket vendes en tu plataforma?",
+    "category": "Productos"
+  },
+  {
+    "id": 6,
+    "area": "Soporte",
+    "question": "¿Tienes disponibles diferentes tamaños de brisket para la compra?",
+    "category": "Productos"
+  },
+  {
+    "id": 7,
+    "area": "Soporte",
+    "question": "¿Existen envíos a otras ciudades o países?",
+    "category": "Envío"
+  },
+  {
+    "id": 8,
+    "area": "Soporte",
+    "question": "¿Cuál es el plazo de entrega para los envíos?",
+    "category": "Envío"
+  },
+  {
+    "id": 9,
+    "area": "Soporte",
+    "question": "¿Existe alguna promoción o cupón de descuento en el sitio?",
+    "category": "Promociones"
+  },
+  {
+    "id": 10,
+    "area": "Soporte",
+    "question": "¿Cómo puedo contactar al servicio de atención al cliente si tengo alguna duda?",
+    "category": "Contacto"
+  }
+]

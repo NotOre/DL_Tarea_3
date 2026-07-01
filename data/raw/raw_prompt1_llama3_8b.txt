@@ -1,0 +1,14 @@
+Aquí te dejo los 10 ejemplos de reseñas de usuarios sobre la aplicación de productividad 'Notion' en idioma Español:
+
+[
+  {"id": 1, "app": "Notion", "review": "Me encanta el diseño minimalista y fácil de usar. ¡Es perfecto para organizar mis tareas!", "feeling": "Positivo", "category": "UI/UX"},
+  {"id": 2, "app": "Notion", "review": "Me gustó cómo puedo crear block de diferentes tipos (textos, imágenes, videos, etc.) y combinarlos para crear contenido personalizado.", "feeling": "Positivo", "category": "Funcionalidad"},
+  {"id": 3, "app": "Notion", "review": "La sincronización entre mis dispositivos es rápida y sin problemas. ¡Es genial!", "feeling": "Positivo", "category": "Rendimiento"},
+  {"id": 4, "app": "Notion", "review": "Me da un poco de estrés cuando tengo que buscar un tema o bloque específico dentro de mi base de datos.", "feeling": "Neutro", "category": "UI/UX"},
+  {"id": 5, "app": "Notion", "review": "Hay veces en que se cierra inesperadamente y pierdo el trabajo hecho. ¡Es frustrante!", "feeling": "Negativo", "category": "Bugs"},
+  {"id": 6, "app": "Notion", "review": "Me gustaría ver más opciones de personalización para la apariencia del aplicativo.", "feeling": "Neutro", "category": "UI/UX"},
+  {"id": 7, "app": "Notion", "review": "La función de búsqueda es lenta cuando tengo muchos bloques y sub-bloques. ¡Es un poco agobiante!", "feeling": "Negativo", "category": "Rendimiento"},
+  {"id": 8, "app": "Notion", "review": "Me encanta cómo puedo crear relaciones entre diferentes bloques para organizar mi pensamiento.", "feeling": "Positivo", "category": "Funcionalidad"},
+  {"id": 9, "app": "Notion", "review": "Algunas veces la aplicación tarda un poco en cargarse después de que la cierro y luego vuelvo a abrirla. ¡Es un pequeño problema!", "feeling": "Neutro", "category": "Rendimiento"},
+  {"id": 10, "app": "Notion", "review": "Me gustaría poder exportar mis bases de datos en formato PDF o Excel para compartir con otros.", "feeling": "Neutro", "category": "Funcionalidad"}
+]

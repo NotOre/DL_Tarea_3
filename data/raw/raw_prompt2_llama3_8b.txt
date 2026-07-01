@@ -1,0 +1,14 @@
+Aquí te dejo los comentarios simulados:
+
+[
+    {"id": 1, "platform": "Twitter", "text": "Este nuevo brisket se ve jugoso y sabroso.", "feeling": "Positivo", "topic": "Textura"},
+    {"id": 2, "platform": "Facebook", "text": "Me encanta el sabor de esta nueva variedad de brisket! Es un poco más caro que otros pero vale la pena.", "feeling": "Positivo", "topic": "Sabor"},
+    {"id": 3, "platform": "Instagram", "text": "La presentación es impresionante, pero no me convence mucho...", "feeling": "Neutral", "topic": "Presentación"},
+    {"id": 4, "platform": "Twitter", "text": "Este nuevo brisket es un regalo para el paladar! La textura es sublime.", "feeling": "Positivo", "topic": "Textura"},
+    {"id": 5, "platform": "Facebook", "text": "No entiendo por qué todos hablan de este nuevo brisket... No me parece tan especial.", "feeling": "Negativo", "topic": "Expectativas"},
+    {"id": 6, "platform": "Instagram", "text": "La verdad es que no he probado aún pero la presentación me gusta mucho", "feeling": "Neutral", "topic": "Presentación"},
+    {"id": 7, "platform": "Twitter", "text": "Este brisket es un abismo de sabor y textura! Me encanta!", "feeling": "Positivo", "topic": "General"},
+    {"id": 8, "platform": "Facebook", "text": "Me parece que este nuevo brisket es un poco exagerado en cuanto a la presentación...", "feeling": "Negativo", "topic": "Presentación"},
+    {"id": 9, "platform": "Instagram", "text": "El sabor es interesante pero no es lo mejor que he probado", "feeling": "Neutral", "topic": "Sabor"},
+    {"id": 10, "platform": "Twitter", "text": "Este nuevo brisket es un must-try! ¡Es un regalo para el paladar!", "feeling": "Positivo", "topic": "General"}
+]

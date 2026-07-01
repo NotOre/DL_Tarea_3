@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "app": "Notion",
+    "review": "El diseño de la interfaz es atractivo pero a veces resulta complicado encontrar ciertas funciones.",
+    "feeling": "Neutro",
+    "category": "UI/UX"
+  },
+  {
+    "id": 2,
+    "app": "Notion",
+    "review": "El rendimiento es lento a veces, especialmente al abrir archivos grandes.",
+    "feeling": "Negativo",
+    "category": "Rendimiento"
+  },
+  {
+    "id": 3,
+    "app": "Notion",
+    "review": "El texto a veces se sobrepone en la interfaz y es difícil leer.",
+    "feeling": "Negativo",
+    "category": "UI/UX"
+  },
+  {
+    "id": 4,
+    "app": "Notion",
+    "review": "Me han perdido algunos cambios que no se guardaron correctamente.",
+    "feeling": "Negativo",
+    "category": "Bugs"
+  },
+  {
+    "id": 5,
+    "app": "Notion",
+    "review": "El app está lleno de potenciales mejoras y ha sido una gran herramienta para la productividad.",
+    "feeling": "Positivo",
+    "category": "UI/UX"
+  },
+  {
+    "id": 6,
+    "app": "Notion",
+    "review": "El app funciona bien en mi dispositivo móvil pero a veces presenta errores inesperados.",
+    "feeling": "Negativo",
+    "category": "Bugs"
+  },
+  {
+    "id": 7,
+    "app": "Notion",
+    "review": "Me ha resultado muy útil para organizar tareas y archivos.",
+    "feeling": "Positivo",
+    "category": "Organización"
+  },
+  {
+    "id": 8,
+    "app": "Notion",
+    "review": "A veces me da problemas al subir imágenes y archivos.",
+    "feeling": "Negativo",
+    "category": "Bugs"
+  },
+  {
+    "id": 9,
+    "app": "Notion",
+    "review": "Me ha resultado muy fácil trabajar con otros colaboradores en el mismo espacio de trabajo.",
+    "feeling": "Positivo",
+    "category": "Colaboración"
+  },
+  {
+    "id": 10,
+    "app": "Notion",
+    "review": "En ocasiones me han salido errores de forma inesperada que me impiden trabajar.",
+    "feeling": "Negativo",
+    "category": "Bugs"
+  }
+]
